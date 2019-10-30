@@ -2,7 +2,7 @@
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
-document.getElementById("modal").hidden = true;
+
 
 
 
